@@ -1,4 +1,4 @@
 
 
 
-export * from './Noticia';
+export * from './noticia';
